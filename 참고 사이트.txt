@@ -1,0 +1,63 @@
+참고 사이트
+점자 영어 위키백과 : https://ko.wikipedia.org/wiki/%EC%98%81%EC%96%B4_%EC%A0%90%EC%9E%90
+
+이미지 
+https://pixabay.com/ko/
+
+api 샘플 : https://apidocs.ncloud.com/ko/ai-naver/clova_speech_synthesis/tts/
+
+Unity datapath 정리 : https://3dmpengines.tistory.com/1745
+
+Resources에 있는 오디오 파일 로드 하는 법 : https://answers.unity.com/questions/309833/load-audio-files-with-resourcesload-and-play-them.html
+
+VuMark 인식해서 ID가져오는 거 : 1. https://www.innerdrivestudios.com/blog/?p=all
+2. https://www.innerdrivestudios.com/blog/controlling-content-visibility-through-vumark-ids/
+
+VuMark : https://library.vuforia.com/content/vuforia-library/en/articles/Solution/sample-apps-target-pdfs.html
+
+이미지 마커 위치 (left, middle, right 찾는 법) : https://forum.unity.com/threads/how-to-know-image-target-position.540226/
+
+비슷한 거 논문 : http://ceur-ws.org/Vol-2387/20190274.pdf
+
+Unity + 구글 TTS 소스 : http://blog.naver.com/PostView.nhn?blogId=softcool&logNo=220317583167&redirect=Dlog&widgetTypeCall=true
+
+자식 컴포넌트 가져온느 거 : https://forum.unity.com/threads/how-do-i-find-which-game-objects-have-a-certain-script-component-attached.372709/
+
+점자 한글 위키백과 : https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B8%80_%EC%A0%90%EC%9E%90
+
+비시각장애인을 위한 점자 디자인 : https://1boon.kakao.com/bizion/5acc3f4e6a8e510001798fe4
+
+SKT 점자 학습 시스템(IOT) : https://www.msn.com/ko-kr/news/techandscience/%EC%A0%90%EC%9E%90-%EB%AC%B8%EB%A7%B9%EB%A5%A0-95percent-%EC%9D%B4%EC%A0%9C-ai%EA%B0%80-%EB%82%98%EC%84%A0%EB%8B%A4/ar-AAG0yTZ
+
+점자 읽는거 도와주는 스마트 워치 : https://brunch.co.kr/@bzup/76
+
+시각장애인 도와주는 스마트 신발 : http://m.hankookilbo.com/News/Read/201712111793831780
+
+시각 장애인 터치 스크린 기반 : 
+http://www.koreabiz.org/m/view.php?idx=18675&mcode=
+
+시각 장애인 점자 문제(가능 12%) : https://100up.kakaoimpact.org/problems/1/view 
+
+시각 장애인 점자 문제(동영상)
+https://www.youtube.com/watch?v=a7ZmWg4CTjk
+
+점자 해독 가능한 시각 장애인 통계 비교 : 
+https://www.yna.co.kr/view/AKR20171121157800797
+
+점자 관련 이슈
+1. https://news.v.daum.net/v/20170426131504569
+2. http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002551360
+3.
+
+위조지폐 감별 : https://shinhanblog.com/83
+
+WWW 외부 mp3 파일 문제
+1. http://www.devkorea.co.kr/bbs/board.php?bo_table=m03_qna&wr_id=21416
+2. http://devkorea.co.kr/bbs/board.php?bo_table=m03_qna&wr_id=19199
+3. https://stackoverflow.com/questions/38925108/load-external-ogg-file-into-unity-webgl-build-at-runtime?rq=1
+4. http://www.devkorea.co.kr/bbs/board.php?bo_table=m03_qna&wr_id=64809
+5. https://answers.unity.com/questions/406895/load-external-mp3-file-without-streaming.html
+
+구냥 나중에 공부할 때 필요할수도...?
+1. http://charlie0301.blogspot.com/2014/03/unity-rest-api-json-library.html
+2. http://www.devkorea.co.kr/bbs/board.php?bo_table=m03_lecture&wr_id=1279
